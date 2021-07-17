@@ -92,23 +92,22 @@ a:hover {
 
 }
 
-.mountain {
+.middlelogo {
   position: relative;
-  left: 50px;
-  top: 50px;
+  top: 80px;
   border-radius: 50%;
 }
 
-.bottom-cloud {
+.bottom-logo {
   position: absolute;
-  left: 150px;
-  bottom: 300px;
+  left: 30px;
+  bottom: 150px;
   border-radius: 50%;
 }
 
-.top-cloud {
+.top-logo {
   position: absolute;
-  right: 150px;
+  right: 30px;
   top: 50px;
   border-radius: 50%;
 }
